@@ -34,7 +34,9 @@ I'm a full stack web developer focused on building clean, user-friendly web appl
 
 ---
 
-⚡ **Fun fact** — I am definitely not a cat person
+⚡ **Fun fact**
+&nbsp;
+I am definitely not a cat person
 
 ## Let's Connect
 
