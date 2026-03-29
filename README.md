@@ -2,12 +2,12 @@
 
 ```javascript
 const shohagMiah = {
-  title: "Senior Full-Stack Engineer",
+  title: "Junior Full-Stack Engineer",
   location: "🌍 Remote | Open to opportunities",
   languages: ["English", "Bangla"],
   
   expertise: {
-    frontend: ["React", "HTML5", "CSS3", "JavaScript", "TypeScript"],
+    frontend: ["HTML5", "CSS3", "JavaScript","React"],
     backend: ["Node.js", "Express.js", "JWT Authentication"],
     database: ["MongoDB", "Mongoose"],
     tools: ["Git", "VS Code", "Postman", "Vercel", "npm"]
@@ -30,7 +30,7 @@ const shohagMiah = {
 ## 🎯 What I'm Up To
 
 ##### 🔭 Currently Working On
-```yaml
+```javascript
 projects:
   - Personal MERN Stack Apps
   - Portfolio Website Refinement
