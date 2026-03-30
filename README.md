@@ -30,7 +30,7 @@ const shohagMiah = {
 ## 🎯 What I'm Up To
 
 ##### 🔭 Currently Working On
-```javascript
+```yaml
 projects:
   - Personal MERN Stack Apps
   - Portfolio Website Refinement
@@ -89,10 +89,13 @@ technologies:
 **I'm always open to interesting conversations and collaboration opportunities!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohag-miah-a484a93b2/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shohagmiah.vercel.app)
+[![X.com](https://img.shields.io/badge/X.com-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MiahShohag6961)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shohagmiah7474@gmail.com)
 
 **⭐ From [TheShohagMiah](https://github.com/TheShohagMiah) with ❤️**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shohagmiah.vercel.app)
+
 
 *"First, solve the problem. Then, write the code."* - John Johnson
 
