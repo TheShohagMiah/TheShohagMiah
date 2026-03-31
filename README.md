@@ -5,23 +5,19 @@ const shohagMiah = {
   title: "Junior Full-Stack Engineer",
   location: "🌍 Remote | Open to opportunities",
   languages: ["English", "Bangla"],
-  
   expertise: {
     frontend: ["HTML5", "CSS3", "JavaScript","React"],
     backend: ["Node.js", "Express.js", "JWT Authentication"],
     database: ["MongoDB", "Mongoose"],
     tools: ["Git", "VS Code", "Postman", "Vercel", "npm"]
   },
-  
   currentFocus: ["System Design", "Next JS", "TypeScript"],
   passions: ["Teaching", "Reading", "Fitness"],
-  
   quickFacts: {
     coffeeDriven: true,
     catPerson: false, // definitely not 🐾
     availableForHire: true
   },
-  
   lifePhilosophy: "Code is poetry written for machines, read by humans"
 };
 ```
