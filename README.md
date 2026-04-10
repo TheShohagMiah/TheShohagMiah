@@ -1,6 +1,6 @@
 # 👋 Hey!
 
-```javascript
+```JavaScript
 const shohagMiah = {
   title: "Junior Full-Stack Engineer",
   location: "🌍 Remote | Open to opportunities",
@@ -18,7 +18,7 @@ const shohagMiah = {
     catPerson: false, // definitely not 🐾
     availableForHire: true
   },
-  lifePhilosophy: "Code is poetry written for machines, read by humans"
+  lifePhilosophy: "Code is poetry written for machines, read by humans."
 };
 ```
 ---
@@ -28,6 +28,7 @@ const shohagMiah = {
 ##### 🔭 Currently Working On
 ```yaml
 projects:
+  - Full Stack Blood Donation
   - Personal MERN Stack Apps
   - Portfolio Website Refinement
   - Open Source Contributions
